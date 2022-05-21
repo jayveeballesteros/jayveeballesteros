@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/jayveeballesteros/" target="_blank" >
   <img align="left" alt="JB's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://jvbllstrs.me/playlist" target="_blank" >
-  <img align="left" alt="JB's Apple Music" width="22px" src="https://static.wikia.nocookie.net/logopedia/images/c/cb/Apple_Music_Icon_RGB_lg_073120.svg/revision/latest/scale-to-width-down/361?cb=20200921150442" />
-</a>
 <a href="https://github.com/jayveeballesteros" target="_blank" >
   <img align="left" alt="JB's Counter" src="https://visitor-badge.glitch.me/badge?page_id=jayveeballesteros.jayveeballesteros" />
 </a>
@@ -62,7 +59,7 @@ StoiQuote is a simple app that displays random quotes about Stoicism.
 
 > SwiftUI, API Request
 
-<img src="Images/screen.gif" width="1024">
+<img src="Images/screen.gif" width="320">
 
 <a href="https://github.com/jayveeballesteros/StoiQuote"><img src="Images/github.svg"></a>
 
