@@ -59,7 +59,7 @@ StoiQuote is a simple app that displays random quotes about Stoicism.
 
 > SwiftUI, API Request
 
-<img src="Images/screen.gif" width="320">
+<img src="Images/screen2.gif" width="320">
 
 <a href="https://github.com/jayveeballesteros/StoiQuote"><img src="Images/github.svg"></a>
 
