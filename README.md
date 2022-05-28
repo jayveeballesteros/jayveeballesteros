@@ -53,7 +53,7 @@ print(profile.description)
 print(profile.proficient())
 
 ```
-# <img class="logo" src="Images/Icon.png" width="32"> StoiQuote
+<!-- # <img class="logo" src="Images/Icon.png" width="32"> StoiQuote
 
 StoiQuote is a simple app that displays random quotes about Stoicism.
 
@@ -64,3 +64,4 @@ StoiQuote is a simple app that displays random quotes about Stoicism.
 <a href="https://github.com/jayveeballesteros/StoiQuote"><img src="Images/github.svg"></a>
 
 <br>
+ -->
