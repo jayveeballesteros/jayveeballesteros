@@ -37,7 +37,7 @@ struct Profile: CustomStringConvertible {
         case sketch, blender, finalCut
     }
  
-    func proficient(in skills: [Skill] = Skills.allCases) -> String {
+    func proficient(in skills: [Skill] = Skill.allCases) -> String {
         skills
             .lazy
             .map(\.rawValue)
