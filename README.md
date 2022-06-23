@@ -33,8 +33,8 @@ struct Profile: CustomStringConvertible {
     }
   
     enum Skill: String, CaseIterable {
-        case swift, uIKit, swiftUI
-        case sketch, blender, finalCut
+        case swift, swiftUI, uIKit, PHP, JavaScript, HTML5, CSS3
+        case xCode, webStorm, sketch, photoshop, finalCutPro
     }
  
     func proficient(in skills: [Skill] = Skill.allCases) -> String {
