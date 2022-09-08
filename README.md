@@ -24,10 +24,7 @@ struct Profile: CustomStringConvertible {
     var description: String {
         """
         \(name)\n
-        BS Information Technology graduate with passion for iOS development and design. 
-        Majority of the time I practice with native iOS applications using Swift, UIKit,
-        and trying to explore future possibilities for SwiftUI, always open to learning 
-        new technologies and frameworks.\n
+        I’m a Software Engineer that specializes in native iOS development using Swift with UIKit &/or SwiftUI.\n\nBuilding side-projects and helping aspiring developers is how I further my self-education outside of working hours.\n
 
         """
     }
