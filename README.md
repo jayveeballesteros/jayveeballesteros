@@ -23,10 +23,10 @@ struct Profile: CustomStringConvertible {
   
     var description: String {
         """
-        \(name)\n
+        \(name)
         I’m a Software Engineer that specializes in native iOS development using Swift
-        with UIKit &/or SwiftUI.\n\n Building side-projects and helping aspiring developers
-        is how I further my self-education outside of working hours.\n
+        with UIKit &/or SwiftUI. Building side-projects and helping aspiring developers
+        is how I further my self-education outside of working hours.
 
         """
     }
